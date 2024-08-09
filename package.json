@@ -48,7 +48,8 @@
     "effects",
     "web",
     "react",
-    "library"
+    "library",
+    "snow"
   ],
   "author": "thiagotnon",
   "repository": {
